@@ -17,8 +17,8 @@ riscv-single-cycle-cpu
 └── README.md: 此文件  
 
 ### 各个lab测试的指令
-lab1：addi xori ori andi lui jal beq add sub and or xor auipc jalr
-lab2：ld sd
-lab3：BNE BLT BGE BLTU BGEU SLTI SLTIU SLLI SRLI SRAI SLL SLT SLTU SRL SRA
-lab4：ADDIW SLLIW SRLIW SRAIW ADDW SUBW SLLW SRLW SRAW mul div divu rem remu
-lab5：LB LH LW LBU LHU LWU SB SH SW mulw divw divuw remw remuw
+- lab1：addi xori ori andi lui jal beq add sub and or xor auipc jalr
+- lab2：ld sd
+- lab3：BNE BLT BGE BLTU BGEU SLTI SLTIU SLLI SRLI SRAI SLL SLT SLTU SRL SRA
+- lab4：ADDIW SLLIW SRLIW SRAIW ADDW SUBW SLLW SRLW SRAW mul div divu rem remu
+- lab5：LB LH LW LBU LHU LWU SB SH SW mulw divw divuw remw remuw
